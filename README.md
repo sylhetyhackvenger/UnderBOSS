@@ -1,5 +1,7 @@
 # UnderBOSS - Advanced Remote Administration Tool
-
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
 
 ---
 
@@ -173,6 +175,9 @@ Prerequisites
 · Termux-API package
 · Network connectivity (local network or internet)
 · Storage permissions for file operations
+<p align="center">
+  <img src="assets/2.png" alt="Banner 2" width="100%">
+</p>
 
 Quick Installation
 
