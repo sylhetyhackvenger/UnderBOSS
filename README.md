@@ -163,6 +163,7 @@ System-level commands utilize Android's native utilities:
 · am for application management
 · pm for package management
 · content for database access
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/UMXpgbLC6Cd2Lh4nNb/giphy.gif"
@@ -170,6 +171,7 @@ System-level commands utilize Android's native utilities:
      alt="Glitch loop animation">
 
 </div>
+
 ---
 
 📥 Installation Guide
