@@ -1,9 +1,5 @@
 # UnderBOSS - Advanced Remote Administration Tool
 
-https://img.shields.io/badge/UnderBOSS-v2.0-red
-https://img.shields.io/badge/Python-3.x-blue
-https://img.shields.io/badge/Platform-Android-green
-https://img.shields.io/badge/License-EDUCATIONAL-yellow
 
 ---
 
