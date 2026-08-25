@@ -448,6 +448,14 @@ The developer of UnderBOSS is not responsible for:
 · Data loss or system damage
 · Any form of illegal activity conducted with this software
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/YYDjE4C7YgQKI/giphy.gif"
+     width="100%"
+     alt="Clark Gable cigar animation">
+
+</div>
+
 ---
 
 📚 License & Attribution
