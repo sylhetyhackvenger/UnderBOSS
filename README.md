@@ -301,7 +301,11 @@ BOSS> 51
 ```
 
 ---
+🚀 One-Line Installation Script
 
+```bash
+pkg update && pkg upgrade -y && pkg install python3 python-pip net-tools termux-api tsu -y && pip install netifaces && termux-setup-storage
+```
 🛠️ Command Reference
 
 System Information (1-10)
